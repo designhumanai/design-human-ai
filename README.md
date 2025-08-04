@@ -1,8 +1,8 @@
 # DHAIE — Design Human AI Engineering and Enhancement
 
-![License](https://img.shields.io/github/license/username/design-human-ai)
-![Contributors](https://img.shields.io/github/contributors/username/design-human-ai)
-![Last Commit](https://img.shields.io/github/last-commit/username/design-human-ai)
+![License](https://img.shields.io/github/license/designhumanai/design-human-ai)
+![Contributors](https://img.shields.io/github/contributors/designhumanai/design-human-ai)
+![Last Commit](https://img.shields.io/github/last-commit/designhumanai/design-human-ai)
 
 ## 🔷 Что такое DHAIE?
 
