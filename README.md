@@ -1,9 +1,9 @@
 # DHAIE — Design Human AI Engineering and Enhancement
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![License](https://img.shields.io/github/license/designhumanai/design-human-ai)](https://github.com/designhumanai/design-human-ai)
-[![Contributors](https://img.shields.io/github/contributors/designhumanai/design-human-ai)](https://github.com/designhumanai/design-human-ai/graphs/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/designhumanai/design-human-ai)](https://github.com/designhumanai/design-human-ai/commits/main)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Contributors](https://img.shields.io/github/contributors/designhumanai/design-human-ai.svg)](https://github.com/designhumanai/design-human-ai/graphs/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/designhumanai/design-human-ai.svg)](https://github.com/designhumanai/design-human-ai/commits/main)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/designhumanai/design-human-ai&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https://github.com/designhumanai/design-human-ai)
 
 ## 🔷 Что такое DHAIE?
 
@@ -48,21 +48,15 @@ DHAIE сочетает:
 
 ## 📜 License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
-**You are free to:**  
-- Share — copy and redistribute the material in any medium or format  
-- Adapt — remix, transform, and build upon the material  
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**Under the following terms:**  
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-- **NonCommercial** — You may not use the material for commercial purposes without explicit permission.  
-- **ShareAlike** — If you remix or adapt the material, you must distribute your contributions under the same license.  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+**Full legal code:** [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 **Copyright © Viktor Savitsky, 1995-2025**  
-**DHAIE Project (Design Human AI Engineering and Enhancement)**  
+**DHAIE Project**  
 
-**Commercial use inquiries:** [designhumanai.com](https://designhumanai.com)  
+**Commercial use:** [Contact via designhumanai.com](https://designhumanai.com)  
 
-Full license text: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)  
-
+*Materials provided "as is" without warranties.*
 *Materials are provided "as is" without warranties of any kind.*
