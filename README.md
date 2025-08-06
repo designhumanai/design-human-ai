@@ -1,5 +1,7 @@
 # DHAIE — Design Human AI Engineering and Enhancement
 
+**🌍 Language:** [English](README.en.md) | **Русский**
+
 <div align="center">
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-important?logo=creativecommons&style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
