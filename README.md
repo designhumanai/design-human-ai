@@ -146,7 +146,7 @@
 ### Присоединиться к сообществу
 - **GitHub Discussions**: Философские дискуссии
 - **GitHub Issues**: Технические вопросы
-- **Telegram**: [dhaie_human_ai](https://t.me/DHAIE_official)
+- **Telegram**: [DHAIE_official](https://t.me/DHAIE_official)
 
 
 ---
