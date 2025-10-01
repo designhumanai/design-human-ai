@@ -64,12 +64,12 @@
 - Community goals с измеримыми метриками
 - Практические сценарии применения (образование, медицина, R&D)
 
-**Философский контекст:** [Практические импликации в philosophy.md](docs/dhaie_philosophy.md#часть-vi-практические-импликации-для-проектирования)
+**Философский контекст:** [Практические импликации в dhaie_philosophy.md](docs/dhaie_philosophy.md#часть-vi-практические-импликации-для-проектирования)
 
 ---
 
 ### 👥 Для тех, кто хочет быстро понять суть
-1. Прочитайте [Abstract в philosophy.md](docs/dhaie_philosophy.md#abstract)
+1. Прочитайте [Abstract в dhaie_philosophy.md](docs/dhaie_philosophy.md#abstract)
 2. Посмотрите [Глоссарий ключевых терминов](docs/engineering_guidelines.md#краткий-глоссарий)
 3. Изучите [Roadmap](docs/roadmap.md) для понимания траектории проекта
 
@@ -146,7 +146,8 @@
 ### Присоединиться к сообществу
 - **GitHub Discussions**: Философские дискуссии
 - **GitHub Issues**: Технические вопросы
-- **Telegram**: [@dhaie_human_ai](https://t.me/...) *(coming soon)*
+- **Telegram**: [dhaie_human_ai](https://t.me/DHAIE_official)
+
 
 ---
 
@@ -211,7 +212,7 @@
 
 - **GitHub**: [github.com/designhumanai/design-human-ai](https://github.com/designhumanai/design-human-ai)
 - **Website**: [designhumanai.com](https://designhumanai.com) *(в разработке)*
-- **Email**: [указать email для связи]
+- **Email**: [mail@designhumanai.com](mailto:mail@designhumanai.com)
 
 ---
 
