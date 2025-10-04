@@ -1,3 +1,8 @@
+<!--
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+Copyright © Viktor Savitskiy, 1995–2025
+-->
+
 # Принципы Design Human AI Engineering and Enhancement (DHAIE)
 
 > **Для кого этот документ**: Практическое руководство для разработчиков, проектировщиков систем и исследователей, создающих адаптивные интерфейсы человек-ИИ. Документ переводит философские основания DHAIE в операциональные принципы с измеримыми критериями.
@@ -694,6 +699,25 @@
 
 ---
 
+<!-- UNIFIED CONTACTS BLOCK START -->
+## 📞 Контакты
+
+**Общие вопросы:**
+- 🌐 Website: [designhumanai.com](https://designhumanai.com)
+- 📧 Email: `info@designhumanai.com`
+- 💬 GitHub: [github.com/designhumanai/design-human-ai](https://github.com/designhumanai/design-human-ai)
+
+**Коммерческое лицензирование:**
+- 📧 Email: `dhaie@designhumanai.com`
+
+**Сообщество:**
+- 💬 GitHub Discussions: [coming soon](https://github.com/designhumanai/design-human-ai/discussions)
+- 💬 GitHub Issues: [create issue](https://github.com/designhumanai/design-human-ai/issues/new/choose)
+- 📱 Telegram: [@DHAIE_official](https://t.me/DHAIE_official)
+
+<!-- UNIFIED CONTACTS BLOCK END -->
+
+
 ## История версий и изменений
 
 ### v2.0 (текущая) — Октябрь 2025
@@ -765,23 +789,34 @@ https://github.com/designhumanai/design-human-ai
 
 ---
 
-## 📄 Лицензия
+<!-- UNIFIED LICENSE BLOCK START -->
+## 📜 Лицензия
 
-Эта работа распространяется по лицензии [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+[![GPL-3.0](https://img.shields.io/badge/Code-GPL--3.0-blue.svg?style=for-the-badge)](LICENSES/SOFTWARE-GPL-3.0.md)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[![CC BY-NC-SA 4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+Эта работа распространяется по двум типам лицензий, в зависимости от содержания:
 
-**Вы можете:**
-- ✅ Делиться и адаптировать материал
+| Категория | Лицензия | Область действия |
+|------------|-----------|------------------|
+| Исходный код | GNU General Public License v3.0 | SOFTWARE / FRAMEWORK |
+| Документация, тексты, визуальные материалы | Creative Commons BY-NC-SA 4.0 | DOCS / RESEARCH / VISUALS |
 
-**При условии:**
-- 📝 **Указание авторства** — вы должны указать автора: **© Viktor Savitsky, 1995-2025**, предоставить ссылку на лицензию и указать, были ли внесены изменения.
-- 🚫 Некоммерческое использование
-- 🔄 Производные работы под той же лицензией
+**Условия использования:**  
+- ✅ Разрешено использование и модификация в некоммерческих целях  
+- ✅ Требуется указание авторства: *© Viktor Savitskiy (Савицкий Виктор Николаевич), 1995–2025*  
+- ✅ Производные материалы должны распространяться под той же лицензией  
+- ❌ Коммерческое использование допускается только по отдельному соглашению
 
-**Коммерческое использование:** `licensing@designhumanai.com`
+**Контакт по коммерческому лицензированию:** `dhaie@designhumanai.com`
 
----
+**Copyright © Viktor Savitskiy (Савицкий Виктор Николаевич), 1995–2025**  
+**DHAIE Project — Design Human AI Engineering & Enhancement**  
+All rights reserved under applicable international law.
+
+<!-- UNIFIED LICENSE BLOCK END -->
+
+
 
 ## Финальное напоминание читателю
 
