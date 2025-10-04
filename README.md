@@ -4,7 +4,8 @@
 
 <div align="center">
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-important?logo=creativecommons&style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](LICENSE.md)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](LICENSES/CONTENT-CC-BY-NC-SA-4.0.md)
 [![Contributors](https://img.shields.io/github/contributors/designhumanai/design-human-ai.svg?style=for-the-badge)](https://github.com/designhumanai/design-human-ai/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/designhumanai/design-human-ai.svg?style=for-the-badge)](https://github.com/designhumanai/design-human-ai/commits/main)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/designhumanai/design-human-ai&label=Visitors&countColor=%23263759&style=for-the-badge&updateInterval=3600)](https://visitorbadge.io/status?path=https://github.com/designhumanai/design-human-ai)
@@ -179,20 +180,29 @@
 
 ## 📜 Лицензия
 
-[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![GPL-3.0](https://img.shields.io/badge/Code-GPL--3.0-blue.svg)](LICENSE.md)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC_BY_NC_SA_4.0-lightgrey.svg)](LICENSES/CONTENT-CC-BY-NC-SA-4.0.md)
 
-Этот проект распространяется под лицензией [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Этот проект использует **гибридную модель лицензирования**:
 
-**Что это означает:**
-- ✅ Свободное использование в некоммерческих целях
-- ✅ Модификация и создание производных работ
-- ✅ Обязательное указание авторства
-- ✅ Производные работы под той же лицензией
-- ❌ Коммерческое использование требует отдельной лицензии
+### 🖥️ Для кода и ПО
+- **Лицензия:** [GNU General Public License v3.0](LICENSES/SOFTWARE-GPL-3.0.md)
+- **Распространяется на:** исходный код, скрипты, API, исполняемые компоненты
+- **Условия:** сильный копилефт - производные работы должны быть под той же лицензией
+
+### 📚 Для документации и контента  
+- **Лицензия:** [Creative Commons BY-NC-SA 4.0](LICENSES/CONTENT-CC-BY-NC-SA-4.0.md)
+- **Распространяется на:** документацию, тексты, изображения, философские материалы
+- **Условия:** указание авторства, некоммерческое использование, share-alike
+
+### 💼 Коммерческое лицензирование
+Для использования в коммерческих продуктах доступны коммерческие лицензии:
+- **Контакты:** [dhaie@designhumanai.com](mailto:dhaie@designhumanai.com)
+- **Сайт:** [designhumanai.com](https://designhumanai.com)
+
+**Полная информация:** [LICENSE.md](LICENSE.md)
 
 **Copyright © Viktor Savitsky, 1995-2025**
-
-**Коммерческое использование:** Свяжитесь через [designhumanai.com](https://designhumanai.com)
 
 ---
 
