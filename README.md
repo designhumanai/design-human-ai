@@ -202,7 +202,7 @@
 
 **Полная информация:** [LICENSE.md](LICENSE.md)
 
-**Copyright © Viktor Savitsky, 1995-2025**
+**Copyright © Viktor Savitskiy, 1995-2025**
 
 ---
 
