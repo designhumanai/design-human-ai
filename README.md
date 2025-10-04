@@ -180,8 +180,8 @@
 
 ## 📜 Лицензия
 
-[![GPL-3.0](https://img.shields.io/badge/Code-GPL--3.0-blue.svg)](LICENSE.md)
-[![CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC_BY_NC_SA_4.0-lightgrey.svg)](LICENSES/CONTENT-CC-BY-NC-SA-4.0.md)
+[![GPL-3.0](https://img.shields.io/badge/Code-GPL--3.0-blue.svg)](LICENSES/SOFTWARE-GPL-3.0.md)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC_BY_NC_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Этот проект использует **гибридную модель лицензирования**:
 
@@ -191,7 +191,7 @@
 - **Условия:** сильный копилефт - производные работы должны быть под той же лицензией
 
 ### 📚 Для документации и контента  
-- **Лицензия:** [Creative Commons BY-NC-SA 4.0](LICENSES/CONTENT-CC-BY-NC-SA-4.0.md)
+- **Лицензия:** [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Распространяется на:** документацию, тексты, изображения, философские материалы
 - **Условия:** указание авторства, некоммерческое использование, share-alike
 
