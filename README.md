@@ -5,7 +5,7 @@
 <div align="center">
 
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge)](LICENSE.md)
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](LICENSES/CONTENT-CC-BY-NC-SA-4.0.md)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Contributors](https://img.shields.io/github/contributors/designhumanai/design-human-ai.svg?style=for-the-badge)](https://github.com/designhumanai/design-human-ai/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/designhumanai/design-human-ai.svg?style=for-the-badge)](https://github.com/designhumanai/design-human-ai/commits/main)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/designhumanai/design-human-ai&label=Visitors&countColor=%23263759&style=for-the-badge&updateInterval=3600)](https://visitorbadge.io/status?path=https://github.com/designhumanai/design-human-ai)
