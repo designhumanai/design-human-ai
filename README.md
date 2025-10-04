@@ -1,6 +1,15 @@
+<!--
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+Copyright © Viktor Savitskiy, 1995–2025
+
+This file: Documentation under CC BY-NC-SA 4.0
+Project uses hybrid licensing: GPL-3.0-only (code) + CC BY-NC-SA 4.0 (docs)
+Full details: LICENSE.md
+-->
+
 # DHAIE — Design Human AI Engineering and Enhancement
 
-**🌍 Language:** [English](README.en.md) | **Русский**
+**🌐 Language:** [English](README.en.md) | **Русский**
 
 <div align="center">
 
@@ -22,7 +31,7 @@
 
 Традиционный "human-centered AI" предполагает, что разработчик может занимать позицию внешнего наблюдателя, проектируя решения "для пользователей". DHAIE исходит из **кибернетики второго порядка**: проектировщик неизбежно является частью наблюдаемой системы, а сам процесс проектирования — актом конструирования реальности.
 
-**Мы не проектируем для пользователей. Мы создаем условия для совместного становления человека и ИИ.**
+**Мы не проектируем для пользователей. Мы создаём условия для совместного становления человека и ИИ.**
 
 ### Что отличает DHAIE
 
@@ -53,7 +62,7 @@
 - Процесс аудита соответствия принципам
 - Примеры на практике для каждого принципа
 
-**Техническая архитектура:** [architecture.md](docs/architecture.md) *(в разработке, Q1 2026)*
+**Техническая архитектура:** [architecture.md](docs/architecture.md) *(В разработке, Q1 2026)*
 
 **Рабочий код:** [Neurostiv Framework](https://github.com/designhumanai/neurostiv-framework)
 
@@ -69,7 +78,7 @@
 
 ---
 
-### 👥 Для тех, кто хочет быстро понять суть
+### 💥 Для тех, кто хочет быстро понять суть
 1. Прочитайте [Abstract в dhaie_philosophy.md](docs/dhaie_philosophy.md#abstract)
 2. Посмотрите [Глоссарий ключевых терминов](docs/engineering_guidelines.md#краткий-глоссарий)
 3. Изучите [Roadmap](docs/roadmap.md) для понимания траектории проекта
@@ -82,7 +91,7 @@
 📁 docs/
 ├── 📘 dhaie_philosophy.md      # Теоретический фундамент (академическая статья)
 ├── 🛠️ engineering_guidelines.md # Операциональные принципы для разработчиков
-├── 📗 ethics.md                 # Этические протоколы применения
+├── 🔗 ethics.md                 # Этические протоколы применения
 ├── 📋 roadmap.md                # План развития проекта
 └── 📙 architecture.md           # Техническая спецификация (в разработке)
 
@@ -149,7 +158,6 @@
 - **GitHub Issues**: Технические вопросы
 - **Telegram**: [DHAIE_official](https://t.me/DHAIE_official)
 
-
 ---
 
 ## 📈 Current Focus (Октябрь 2025)
@@ -178,31 +186,65 @@
 
 ---
 
+<!-- UNIFIED LICENSE BLOCK START -->
 ## 📜 Лицензия
 
-[![GPL-3.0](https://img.shields.io/badge/Code-GPL--3.0-blue.svg)](LICENSES/SOFTWARE-GPL-3.0.md)
-[![CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC_BY_NC_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![GPL-3.0](https://img.shields.io/badge/Code-GPL--3.0-blue.svg?style=for-the-badge)](LICENSES/SOFTWARE-GPL-3.0.md)
+[![CC BY-NC-SA 4.0](https://img.shields.io/badge/Docs-CC_BY_NC_SA_4.0-lightgrey.svg?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Этот проект использует **гибридную модель лицензирования**:
+### 📄 Для этого файла (README.md)
+- **Лицензия:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- **Причина:** Документационный контент
+- **SPDX-идентификатор:** См. начало файла
+
+### 📦 Для проекта в целом
+
+Проект использует **гибридную модель лицензирования**:
 
 ### 🖥️ Для кода и ПО
-- **Лицензия:** [GNU General Public License v3.0](LICENSES/SOFTWARE-GPL-3.0.md)
+- **Лицензия:** [GNU General Public License v3.0 only](LICENSES/SOFTWARE-GPL-3.0.md)
 - **Распространяется на:** исходный код, скрипты, API, исполняемые компоненты
-- **Условия:** сильный копилефт - производные работы должны быть под той же лицензией
+- **Условия:** Сильный копилефт — производные работы должны быть под той же лицензией
 
-### 📚 Для документации и контента  
-- **Лицензия:** [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+**Header для кода:**
+```python
+# SPDX-License-Identifier: GPL-3.0-only
+# Copyright © Viktor Savitskiy, 1995–2025
+```
+
+### 📚 Для документации и контента
+- **Лицензия:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - **Распространяется на:** документацию, тексты, изображения, философские материалы
-- **Условия:** указание авторства, некоммерческое использование, share-alike
+- **Условия:**
+  - **Attribution** — указание авторства: **Viktor Savitskiy / DHAIE Project**
+  - **NonCommercial** — некоммерческое использование
+  - **ShareAlike** — производные работы под той же лицензией
+
+**Header для документации:**
+```markdown
+<!--
+SPDX-License-Identifier: CC-BY-NC-SA-4.0
+Copyright © Viktor Savitskiy, 1995–2025
+-->
+```
 
 ### 💼 Коммерческое лицензирование
+
 Для использования в коммерческих продуктах доступны коммерческие лицензии:
-- **Контакты:** [dhaie@designhumanai.com](mailto:dhaie@designhumanai.com)
-- **Сайт:** [designhumanai.com](https://designhumanai.com)
+
+**Контакты:**
+- 📧 Email: `dhaie@designhumanai.com`
+- 🌐 Website: [designhumanai.com](https://designhumanai.com)
 
 **Полная информация:** [LICENSE.md](LICENSE.md)
 
-**Copyright © Viktor Savitskiy, 1995-2025**
+---
+
+**Copyright © Viktor Savitskiy (Савицкий Виктор Николаевич), 1995–2025**  
+**DHAIE Project — Design Human AI Engineering & Enhancement**  
+All rights reserved under applicable international law.
+
+<!-- UNIFIED LICENSE BLOCK END -->
 
 ---
 
@@ -218,11 +260,23 @@
 
 ---
 
+<!-- UNIFIED CONTACTS BLOCK START -->
 ## 📞 Контакты
 
-- **GitHub**: [github.com/designhumanai/design-human-ai](https://github.com/designhumanai/design-human-ai)
-- **Website**: [designhumanai.com](https://designhumanai.com) *(в разработке)*
-- **Email**: [mail@designhumanai.com](mailto:mail@designhumanai.com)
+**Общие вопросы:**
+- 🌐 Website: [designhumanai.com](https://designhumanai.com) *(В разработке)*
+- 📧 Email: `info@designhumanai.com`
+- 💬 GitHub: [github.com/designhumanai/design-human-ai](https://github.com/designhumanai/design-human-ai)
+
+**Коммерческое лицензирование:**
+- 📧 Email: `dhaie@designhumanai.com`
+
+**Сообщество:**
+- 💬 GitHub Discussions: [Философские и технические дискуссии](https://github.com/designhumanai/design-human-ai/discussions)
+- 💬 GitHub Issues: [Технические вопросы и баги](https://github.com/designhumanai/design-human-ai/issues)
+- 📱 Telegram: [@DHAIE_official](https://t.me/DHAIE_official)
+
+<!-- UNIFIED CONTACTS BLOCK END -->
 
 ---
 
