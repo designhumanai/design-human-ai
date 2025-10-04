@@ -206,7 +206,7 @@ Full details: LICENSE.md
 - **Распространяется на:** исходный код, скрипты, API, исполняемые компоненты
 - **Условия:** Сильный копилефт — производные работы должны быть под той же лицензией
 
-**Header для кода:**
+**Пример header для файлов кода:**
 ```python
 # SPDX-License-Identifier: GPL-3.0-only
 # Copyright © Viktor Savitskiy, 1995–2025
@@ -220,7 +220,7 @@ Full details: LICENSE.md
   - **NonCommercial** — некоммерческое использование
   - **ShareAlike** — производные работы под той же лицензией
 
-**Header для документации:**
+**Пример header для документации:**
 ```markdown
 <!--
 SPDX-License-Identifier: CC-BY-NC-SA-4.0
