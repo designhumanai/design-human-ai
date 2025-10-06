@@ -756,12 +756,12 @@ Rationale: Eliminating contradictions with philosophical foundations and adding 
 
 **License**: CC BY-NC-SA 4.0 (Creative Commons Attribution-NonCommercial-ShareAlike 4.0)
 
-**What this means**:
-- ✅ Can be used in non-commercial projects
-- ✅ Can be modified and derivative works created
-- ✅ Attribution required
-- ✅ Derivative works must be distributed under the same license
-- ❌ Commercial use prohibited without explicit permission
+**Terms of Use**:
+- ✅ Permitted: non-commercial use in projects
+- ✅ Permitted: modification and creation of derivative works
+- ✅ Required: attribution to original author
+- ✅ Required: same license sharing for derivative works
+- ❌ Restricted: commercial use requires explicit permission
 
 **For commercial use**: Contact the author for a separate license.
 
@@ -804,11 +804,11 @@ This work is distributed under two types of licenses, depending on content:
 | Source code | GNU General Public License v3.0 | SOFTWARE / FRAMEWORK |
 | Documentation, texts, visual materials | Creative Commons BY-NC-SA 4.0 | DOCS / RESEARCH / VISUALS |
 
-**Terms of use:**  
-- ✅ Use and modification permitted for non-commercial purposes  
-- ✅ Attribution required: *© Viktor Savitskiy, 1995–2025*  
-- ✅ Derivative materials must be distributed under the same license  
-- ❌ Commercial use only by separate agreement
+**Terms of Use:**  
+- ✅ Permitted: non-commercial use and modification  
+- ✅ Required: attribution as *© Viktor Savitskiy (Савицкий Виктор Николаевич), 1995–2025*  
+- ✅ Required: same license sharing for derivative materials  
+- ❌ Restricted: commercial use requires separate licensing agreement
 
 **Commercial licensing contact:** `dhaie@designhumanai.com`
 
