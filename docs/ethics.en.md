@@ -8,7 +8,7 @@ SPDX-License-Identifier: CC-BY-NC-SA-4.0
 > **Technology should serve human prosperity, not the other way around.**
 > *Brief version for developers and researchers | Based on full memorandum v2.8*
 
-**Language:** English | [Русский](ethics.md)
+**🌐 Language:** English | [Русский](ethics.md)
 
 **Version Alignment:** This document is fully synchronized with [Russian version](ethics.md) as of October 2025.
 
