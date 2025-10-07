@@ -12,6 +12,8 @@ Copyright © Viktor Savitskiy, 1995–2025
 > These principles are under active development and require empirical validation (see [roadmap.en.md](./roadmap.en.md)). We invite the community to provide critique, present case studies of contradictions, and suggest refinements to formulations.
 >
 > **Do not use as a ready-made standard** — this is research work open to evolution.
+>
+> **🌐 Language:** English | [Русский](engineering_guidelines.md)
 
 > **Part of the DHAIE Research Series**
 
