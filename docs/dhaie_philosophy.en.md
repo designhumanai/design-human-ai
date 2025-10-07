@@ -20,6 +20,8 @@ Copyright © Viktor Savitskiy, 1995–2025
 
 > **"We cannot design systems for people without acknowledging that the design process itself inevitably includes us—observers—as active participants in the reality being created."**
 
+**🌐 Language:** English | [Русский](dhaie_philosophy.md)
+
 **Authors:** Viktor Savitskiy, DHAIE Project  
 **Version:** 1.2 | **Date:** 29 September 2025  
 **License:** CC BY-NC-SA 4.0
