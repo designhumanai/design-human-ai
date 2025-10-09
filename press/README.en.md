@@ -4,6 +4,8 @@
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.designhumanai.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/designhumanai/design-human-ai)
 
+**🌐 Language:** English | [Russian](README.md)
+
 Welcome to the official press kit for the **DHAIE** project.  
 This resource is designed for journalists, researchers, partners, and anyone interested in evaluating AI project claims for genuine engineering and scientific merit.
 
