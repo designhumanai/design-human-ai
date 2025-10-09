@@ -5,7 +5,7 @@ Copyright © Viktor Savitskiy, 1995–2025
 
 # Пресс-кит DHAIE (Design Human AI Engineering and Enhancement)
 
-**🌐 Language:** English | [Russian](README.md)
+**🌐 Language:** [English](README.en.md) | Русский
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.designhumanai.com)  
