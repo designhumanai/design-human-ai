@@ -1,10 +1,10 @@
 # DHAIE Press Kit (Design Human AI Engineering and Enhancement)
 
+**🌐 Language:** English | [Russian](README.md)
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY_NC_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.designhumanai.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/designhumanai/design-human-ai)
-
-**🌐 Language:** English | [Russian](README.md)
 
 Welcome to the official press kit for the **DHAIE** project.  
 This resource is designed for journalists, researchers, partners, and anyone interested in evaluating AI project claims for genuine engineering and scientific merit.
