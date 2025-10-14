@@ -82,6 +82,7 @@ Traditional "human-centered AI" assumes that designers can occupy an external ob
 
 ### 📊 For Strategists and Investors
 **Start here:** [Commercial Roadmap](docs/commercial-roadmap.en.md)
+- **For complete validation:** [DHAIE v3.0 Expert Review](docs/review/DHAIE_Concept_v3.0_Expert_Review.en.md) — ROI, risks, compliance
 - Monetizing intellectual assets before technical implementation
 - Consulting services and EU AI Act compliance audits
 - Financial targets: $30k in Q1 2026 → $500k+ ARR in 2027
@@ -120,6 +121,9 @@ Traditional "human-centered AI" assumes that designers can occupy an external ob
 ├── 📋 roadmap.en.md                 # Academic development plan
 ├── 📙 architecture.en.md            # Technical specification (in development)
 └── 🔗 ethics.en.md                  # Ethical protocols for application
+
+📁 docs/review/
+└── 🔍 DHAIE_Concept_v3.0_Expert_Review.en.md # Expert review (v3.0-final)
 
 🔗 Related projects:
 └── Neurostiv Framework             # Implementation of principles for adaptive teams
@@ -167,10 +171,11 @@ Traditional "human-centered AI" assumes that designers can occupy an external ob
 ### For Practitioners
 1. [Engineering Guidelines](docs/engineering_guidelines.en.md) — read in full
 2. [DHAIE Concept v3.0-β](docs/DHAIE-Concept-v3.en.md) — metrics and formulas
-3. [Roadmap](docs/roadmap.en.md) — understand the current phase
-4. [Neurostiv Framework](https://github.com/designhumanai/neurostiv-framework) — review the code
-5. Apply principles in your project
-6. Share results via [GitHub Issues](https://github.com/designhumanai/design-human-ai/issues)
+3. **[DHAIE Concept v3.0 — Expert Review](docs/review/DHAIE_Concept_v3.0_Expert_Review.en.md)** — complete validation and business case
+4. [Roadmap](docs/roadmap.en.md) — understand the current phase
+5. [Neurostiv Framework](https://github.com/designhumanai/neurostiv-framework) — review the code
+6. Apply principles in your project
+7. Share results via [GitHub Issues](https://github.com/designhumanai/design-human-ai/issues)
 
 ### For Business
 1. [Commercial Roadmap](docs/commercial-roadmap.en.md) — financial model
