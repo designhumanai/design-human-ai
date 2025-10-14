@@ -720,10 +720,10 @@ DHAIE — это не просто технология. Это способ д�
 - ✅ Ad-hoc отчёты при инцидентах (немедленно)
 
 **Горячие линии:**
-- 📧 Технические проблемы: `support@dhaie.org`
-- 📧 Этические concerns: `ethics@dhaie.org`
-- 📧 Whistleblower (защита информаторов): `integrity@dhaie.org`
-- 🔒 Анонимная форма: [anonymous.dhaie.org](https://anonymous.dhaie.org) *(планируется)*
+- 📧 Технические проблемы: `support@designhumanai.com`
+- 📧 Этические concerns: `ethics@designhumanai.com`
+- 📧 Whistleblower (защита информаторов): `integrity@designhumanai.com`
+- 🔒 Анонимная форма: [anonymous.designhumanai.com](https://anonymous.designhumanai.com) *(планируется)*
 
 **Что это значит для вас?**  
 Вы можете доверять системе, потому что она проектировалась с учётом того, что доверие нужно заслужить — через прозрачность и ответственность. Если что-то идёт не так, есть чёткий путь для решения проблемы.
@@ -1149,24 +1149,26 @@ Phase 3: Scale (6-12 месяцев)
 
 ### 🔬 Для исследователей
 **Сотрудничество, обмен данными, участие в Phase 1:**
-- 📧 Email: `research@dhaie.org`
+- 📧 Email: `info@designhumanai.com`
 - 💬 GitHub Discussions: [Научные дискуссии](https://github.com/designhumanai/design-human-ai/discussions)
 - 📋 Pre-registration: [OSF Project](https://osf.io/dhaie) *(готовится)*
 
 ### 💼 Для бизнеса
 **Пилотные программы, лицензирование, корпоративное внедрение:**
-- 📧 Email: `business@dhaie.org` | `dhaie@designhumanai.com`
+- 📧 Email: `dhaie@designhumanai.com`
 - 🌐 Website: [designhumanai.com](https://designhumanai.com) *(в разработке)*
-- 📊 ROI калькулятор: [calculator.dhaie.org](https://calculator.dhaie.org) *(планируется)*
+- 📊 ROI калькулятор: [calculator.designhumanai.com
+](https://calculator.designhumanai.com
+) *(планируется)*
 
 ### ⚖️ Для регуляторов
 **Соответствие стандартам, аудит, этическая экспертиза:**
-- 📧 Email: `compliance@dhaie.org`
+- 📧 Email: `info@designhumanai.com`
 - 📄 Compliance документы: [Приложение D](#приложение-d)
 
 ### 📰 Для СМИ
 **Пресс-релизы, интервью, комментарии:**
-- 📧 Email: `media@dhaie.org`
+- 📧 Email: `info@designhumanai.com`
 - 🐦 Twitter/X: [@dhaie_project](https://twitter.com/dhaie_project) *(планируется)*
 
 ### 🌐 Общие вопросы
@@ -1233,7 +1235,8 @@ Phase 3: Scale (6-12 месяцев)
 **Присоединяйтесь:**
 - 💬 Обсуждение: [GitHub Discussions](https://github.com/designhumanai/design-human-ai/discussions)
 - 🐛 Сообщить об ошибке: [GitHub Issues](https://github.com/designhumanai/design-human-ai/issues)
-- 🤝 Стать участником: `research@dhaie.org`
+- 🤝 Стать участником: `info@designhumanai.com
+`
 
 <!-- UNIFIED FOOTER END -->
 
