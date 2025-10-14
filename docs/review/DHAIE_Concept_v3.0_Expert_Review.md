@@ -74,7 +74,7 @@ Copyright © Viktor Savitskiy, 1995–2025
 - 📧 Email: `dhaie@designhumanai.com`
 - 🌐 Website: [designhumanai.com](https://designhumanai.com)
 
-**Полная информация о лицензировании проекта:** [LICENSE.md](LICENSE.md)
+**Полная информация о лицензировании проекта:** [LICENSE.md](https://github.com/designhumanai/design-human-ai/blob/main/LICENSE.md)
 
 ---
 
