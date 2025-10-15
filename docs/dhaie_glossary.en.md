@@ -53,7 +53,7 @@ An approach in DHAIE where new cognitive patterns and properties are not predete
 A self-sustaining mechanism in a human-AI system where successful interaction leads to growth in capabilities of both participants, which in turn makes subsequent interactions even more effective.
 
 **Microstrategies of Cognition**  
-Formalized, individual patterns of thinking and problem-solving, independent of specific content or domain. Formal structures organizing the thinking of a specific person (how they think), regardless of thought content (what they think). They are the object of design and detection in DHAIE reflexive interfaces.
+Formalized, individual patterns of **attention**, thinking and problem-solving, independent of specific content or domain. Formal structures organizing the thinking of a specific person (how they think), regardless of thought content (what they think). They are the object of design and detection in DHAIE reflexive interfaces.
 
 **Post-Human Humanism**  
 A philosophical position in DHAIE that, while not denying the value of human experience, asserts that its preservation and development in the AI era requires going beyond traditional anthropocentric notions and recognizing future intelligence as a joint project of humans and machines.
