@@ -104,9 +104,10 @@ Traditional "human-centered AI" assumes that designers can occupy an external ob
 
 ### 💥 For Those Who Want a Quick Understanding
 1. Read the [Abstract in dhaie_philosophy.en.md](docs/dhaie_philosophy.en.md#abstract)
-2. Check the [Glossary of Key Terms](docs/engineering_guidelines.en.md#brief-glossary)
-3. Review the [Roadmap](docs/roadmap.en.md) to understand the project trajectory
-4. Open [DHAIE Concept v3.0-β](docs/DHAIE-Concept-v3.en.md) for formal definitions
+2. Study the **[Complete Glossary of Terms](docs/dhaie_glossary.en.md)** ← *new!*
+3. Check the [Brief Glossary in engineering_guidelines.en.md](docs/engineering_guidelines.en.md#brief-glossary)
+4. Review the [Roadmap](docs/roadmap.en.md) to understand the project trajectory
+5. Open [DHAIE Concept v3.0-β](docs/DHAIE-Concept-v3.en.md) for formal definitions
 
 ---
 
@@ -120,7 +121,8 @@ Traditional "human-centered AI" assumes that designers can occupy an external ob
 ├── 📊 commercial-roadmap.en.md      # Commercial strategy and monetization (v1.2-pre)
 ├── 📋 roadmap.en.md                 # Academic development plan
 ├── 📙 architecture.en.md            # Technical specification (in development)
-└── 🔗 ethics.en.md                  # Ethical protocols for application
+├── 🔗 ethics.en.md                  # Ethical protocols for application
+└── 📚 **dhaie_glossary.en.md**      # **Complete terminology reference** ← *new!*
 
 📁 docs/review/
 └── 🔍 DHAIE_Concept_v3.0_Expert_Review.en.md # Expert review (v3.0-final)
@@ -164,9 +166,10 @@ Traditional "human-centered AI" assumes that designers can occupy an external ob
 
 ### For Theorists
 1. [Philosophical Foundations](docs/dhaie_philosophy.en.md) — Parts I-III, V
-2. [DHAIE Concept v3.0-β](docs/DHAIE-Concept-v3.en.md) — Operational definitions
-3. [Ethical Principles](docs/ethics.en.md)
-4. [Glossary of Terms](docs/dhaie_philosophy.en.md#glossary)
+2. **[Complete Glossary of Terms](docs/dhaie_glossary.en.md)** — all key concepts ← *new!*
+3. [DHAIE Concept v3.0-β](docs/DHAIE-Concept-v3.en.md) — Operational definitions
+4. [Ethical Principles](docs/ethics.en.md)
+5. [Glossary in Philosophy](docs/dhaie_philosophy.en.md#glossary) — contextual definitions
 
 ### For Practitioners
 1. [Engineering Guidelines](docs/engineering_guidelines.en.md) — read in full
@@ -225,6 +228,13 @@ Applied principles in practice?
 - **GitHub Discussions**: Philosophical discussions
 - **GitHub Issues**: Technical questions
 - **Telegram**: [DHAIE_official](https://t.me/DHAIE_official)
+
+### Suggest New Glossary Terms
+Found a missing or inaccurate term?
+1. Open an [Issue](https://github.com/designhumanai/design-human-ai/issues/new?template=glossary_addition.md)
+2. Specify the term and proposed definition
+3. Justify through DHAIE's philosophical foundations
+4. Suggest usage contexts
 
 ---
 
