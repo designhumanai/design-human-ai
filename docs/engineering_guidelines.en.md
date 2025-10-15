@@ -33,7 +33,7 @@ Copyright © Viktor Savitskiy, 1995–2025
 |------|------------|
 | **Participant** | A human actively constructing system capabilities (not a passive "user") |
 | **Assemblage** | A dynamic, self-organizing system of human-AI interaction |
-| **Micro-strategies** | Formalized patterns of individual thinking, independent of content |
+| **Micro-strategies** | Formalized patterns of individual attention, thinking and problem-solving, independent of content |
 | **Mutual Calibration** | Process of building measurable interaction predictability (not "trust") |
 | **Dynamic Sustainability** | Balance of changes without returning to a fixed state |
 | **Reflexive Interface** | A system capable of observing and modifying its own processes |
@@ -101,7 +101,7 @@ Copyright © Viktor Savitskiy, 1995–2025
 
 **Implementation**:
 - Developing systems that enhance participants' cognitive abilities rather than replacing them
-- Formalizing individual micro-strategies (patterns of thought organization)
+- Formalization of individual microstrategies (patterns of attention, thinking and problem-solving)
 - Balanced distribution of cognitive load between participant and AI
 - Supporting development of new cognitive skills during interaction
 
