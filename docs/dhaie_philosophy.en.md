@@ -156,7 +156,7 @@ Every interface possesses **built-in intentionalities**—it directs the user's 
 
 Contemporary large language models demonstrate impressive capabilities in text processing and generation, but reveal fundamental limitations in tracking and reproducing **formalized micro-strategies of human thinking**.
 
-Micro-strategies are not content patterns of thinking (what a person thinks), but **formal structures of cognitive processes** (how a person thinks). These are metacognitive patterns that determine ways of organizing attention, sequences of cognitive operations, strategies for working with uncertainty.
+Micro-strategies are not content patterns of thinking (what a person thinks), but **formal structures of cognitive processes, including stable attention patterns, information processing, and problem-solving approaches** (how a person thinks). These are metacognitive patterns that determine ways of organizing attention, sequences of cognitive operations, strategies for working with uncertainty.
 
 ### Architectural Limitations of Transformer Models
 
@@ -211,7 +211,7 @@ The **principle of structural coupling** is embodied through Adaptive Transparen
 #### Technical Specification of Components:
 
 **1. Micro-Strategy Extraction Engine**
-- Analysis of formal text structures: ratio of abstract to concrete noun usage, stable patterns of "question-hypothesis-refutation-conclusion" in query sequences, preference for visual metaphors over statistical arguments
+- Analysis of formal text structures: **patterns of attention focus and switching**, ratio of abstract to concrete noun usage, stable patterns of "question-hypothesis-refutation-conclusion" in query sequences, preference for visual metaphors over statistical arguments
 - Temporal modeling: intervals between queries as indicators of depth of contemplation, patterns of transitions between levels of abstraction
 - Construction of cognitive "fingerprints": vector representation of individual thinking preferences
 
@@ -381,8 +381,8 @@ Traditional approaches focus on content personalization. DHAIE proposes personal
 
 **Example**: A student studying physics demonstrates a micro-strategy of "from concrete to abstract." The system adapts to this pattern, presenting new concepts through practical examples rather than abstract formulas.
 
-#### 2. Corporate Decision Support Systems  
-Instead of providing standardized analytics, the system studies the decision-making micro-strategies of the specific manager and provides information in the format that most corresponds to their thinking processes. The system tracks the evolution of leadership style and proposes development tools based on natural cognitive inclinations of the participant.
+**2. Corporate Decision Support Systems**  
+Instead of providing standardized analytics, the system studies the decision-making micro-strategies **(including individual attention patterns)** of the specific manager and provides information in the format that most corresponds to their thinking processes. The system tracks the evolution of leadership style and proposes development tools based on natural cognitive inclinations of the participant.
 
 **Example**: A leader with the micro-strategy "historical context → current situation → forecast" receives analytics in exactly this structure. Over time, the system can propose additional elements (for example, analysis of alternative scenarios), integrating them into the familiar cognitive sequence.
 
@@ -445,7 +445,7 @@ Ethical issues in DHAIE are not reduced to harm prevention or ensuring fairness 
 
 **Second-order cybernetics** – study of processes of observing observation. In practical sense: creating systems that can analyze and modify their own decision-making processes.
 
-**Micro-strategies** – formal structures organizing an individual's thought processes, manifesting independently of content. For example, a characteristic sequence: problem → historical context → ironic reconceptualization → practical solution.
+**Micro-strategies** – formalized, individual patterns of **attention**, thinking, and problem-solving, manifesting independently of specific content or domain. For example, a characteristic sequence: problem → historical context → ironic reconceptualization → practical solution.
 
 **Structural coupling** – a process of mutual change of systems through interaction. Human and AI do not simply exchange information, but mutually transform each other.
 
