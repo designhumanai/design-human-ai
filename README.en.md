@@ -122,10 +122,9 @@ Traditional "human-centered AI" assumes that designers can occupy an external ob
 ├── 📋 roadmap.en.md                 # Academic development plan
 ├── 📙 architecture.en.md            # Technical specification (in development)
 ├── 🔗 ethics.en.md                  # Ethical protocols for application
-└── 📚 **dhaie_glossary.en.md**      # **Complete terminology reference** ← *new!*
-
-📁 docs/review/
-└── 🔍 DHAIE_Concept_v3.0_Expert_Review.en.md # Expert review (v3.0-final)
+├── 📚 dhaie_glossary.en.md          # Complete terminology reference ← new!
+└── 📁 review/
+    └── 🔍 DHAIE_Concept_v3.0_Expert_Review.en.md # Expert review (v3.0-final)
 
 🔗 Related projects:
 └── Neurostiv Framework             # Implementation of principles for adaptive teams
