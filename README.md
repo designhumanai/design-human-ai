@@ -122,10 +122,9 @@ Full details: LICENSE.md
 ├── 📋 roadmap.md                 # Академический план развития проекта
 ├── 📙 architecture.md            # Техническая спецификация (в разработке)
 ├── 🔗 ethics.md                  # Этические протоколы применения
-└── 📚 **dhaie_glossary.md**      # **Полный глоссарий терминов** ← *новый!*
-
-📁 docs/review/
-└── 🔍 DHAIE_Concept_v3.0_Expert_Review.md # Экспертное ревью (v3.0-final)
+├── 📚 dhaie_glossary.md          # Полный глоссарий терминов ← новый!
+└── 📁 review/
+    └── 🔍 DHAIE_Concept_v3.0_Expert_Review.md # Экспертное ревью (v3.0-final)
 
 🔗 Связанные проекты:
 └── Neurostiv Framework          # Реализация принципов для адаптивных команд
